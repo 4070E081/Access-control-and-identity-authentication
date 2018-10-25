@@ -69,4 +69,11 @@
 身分資料應保持最新，離職員工或已不使用的身分應立刻刪除。
 機構內應有選定使用者名稱的政策，以免重複使用或在名稱上洩漏太多訊息。
 ```
-
+## 資料存取控制
+```
+強制存取控制 (mandatory access control, MAC)
+任意存取控制 (discretionary access control, DAC)
+存取控制目錄 (access control list, ACL)
+規則基準存取控制 (rule-based access control)
+角色基準存取控制 (role-based access control)
+```
